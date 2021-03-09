@@ -1,5 +1,2 @@
-1) Personalització del domini.
-Anem aquesta web l’usuari és admin@poste.io i la contrasenya admin
-
-Li donem a “domains”
-Dins posem el nostre nom i cognom junt amb .io al final
+<p><a href="https://manharan992.github.io/Primera-Setmana/">Primer Setmana</a>
+<p><img src="https://user-images.githubusercontent.com/71402147/109635382-9571ed80-7b4a-11eb-8826-a79fc710e5b3.png" alt="Cat"></p> 
